@@ -1,2 +1,2 @@
 # QGIS
-ini hanya pratikum aplikasi QGIs
+ini hanya pratikum aplikasi QGIS & Laravel 11
